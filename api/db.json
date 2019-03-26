@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "title": "Hello",
+      "body": "everyone. Welcome to my web app.",
+      "id": 3
+    }
+  ]
+}
